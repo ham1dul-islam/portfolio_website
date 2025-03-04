@@ -69,7 +69,7 @@ addEventListener('fetch', event => {
 <canvas id="background-canvas"></canvas>
 <div class="container">
   <h1>Welcome to My LLM Hub</h1>
-  <p>Just farting around here as Kevin would say but check this out:</p>
+  <p>Testing:</p>
   <a href="https://ollama.hamids-llms.com/">Access Ollama</a>
 </div>
 
