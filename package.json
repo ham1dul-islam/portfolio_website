@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "package to set up portfolio home page",
+  "main": "worker.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ham1dul-islam/portfolio_website.git"
+  },
+  "keywords": [
+    "Website"
+  ],
+  "author": "Hamidul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ham1dul-islam/portfolio_website/issues"
+  },
+  "homepage": "https://github.com/ham1dul-islam/portfolio_website#readme"
+}
